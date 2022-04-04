@@ -1,0 +1,7 @@
+html{ 
+    background: var(.bg-light.bg-gradient);
+}
+body{
+    font-family: 'Racing Sans One', cursive;
+    background-color: rgb(246, 246, 246);  
+}
